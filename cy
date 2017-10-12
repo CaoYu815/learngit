@@ -3,4 +3,6 @@ git is free softwe
 git is very good
 git has a mutable index called stage
 
-git tracks changes
+git tracks changes of files
+
+caoyu is a superman 
